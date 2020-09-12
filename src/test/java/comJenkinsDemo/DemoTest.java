@@ -38,11 +38,7 @@ WebDriver driver;
 		String title= driver.getTitle();
 		Assert.assertEquals(title, "JavaByKiran | Dashboard");
 	}
-	@Test
-	public void test04() {
-		String title= driver.getTitle();
-		Assert.assertEquals(title, "JavaByKiran | Dashboard");
-	}
+
 
 	
 	@AfterSuite
