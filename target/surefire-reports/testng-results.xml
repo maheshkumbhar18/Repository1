@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4466" started-at="2020-09-12T05:22:28Z" finished-at="2020-09-12T05:22:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4466" started-at="2020-09-12T05:22:28Z" finished-at="2020-09-12T05:22:33Z">
+      <class name="comJenkinsDemo.DemoTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:comJenkinsDemo.DemoTest@617c74e5]" name="setUp" is-config="true" duration-ms="27286" started-at="2020-09-12T05:22:01Z" finished-at="2020-09-12T05:22:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test01()[pri:0, instance:comJenkinsDemo.DemoTest@617c74e5]" name="test01" duration-ms="3997" started-at="2020-09-12T05:22:29Z" finished-at="2020-09-12T05:22:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method status="PASS" signature="test02()[pri:0, instance:comJenkinsDemo.DemoTest@617c74e5]" name="test02" duration-ms="49" started-at="2020-09-12T05:22:33Z" finished-at="2020-09-12T05:22:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+        <test-method status="PASS" signature="test03()[pri:0, instance:comJenkinsDemo.DemoTest@617c74e5]" name="test03" duration-ms="83" started-at="2020-09-12T05:22:33Z" finished-at="2020-09-12T05:22:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03 -->
+        <test-method status="PASS" signature="test04()[pri:0, instance:comJenkinsDemo.DemoTest@617c74e5]" name="test04" duration-ms="99" started-at="2020-09-12T05:22:33Z" finished-at="2020-09-12T05:22:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test04 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:comJenkinsDemo.DemoTest@617c74e5]" name="tearDown" is-config="true" duration-ms="902" started-at="2020-09-12T05:22:33Z" finished-at="2020-09-12T05:22:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- comJenkinsDemo.DemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
